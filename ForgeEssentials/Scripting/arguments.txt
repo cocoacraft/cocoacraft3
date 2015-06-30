@@ -1,0 +1,65 @@
+# Script arguments
+
+## @uniqueplayers
+Number of unique players on the server at all time
+
+## @realtime
+Current real time
+
+## @worldtime
+Current MC world time
+
+## @serveruptime
+Time since server start
+
+## @dim
+Player dimension
+
+## @health
+Player health
+
+## @zd
+Player Z position (as floating point number)
+
+## @yd
+Player Y position (as floating point number)
+
+## @xd
+Player X position (as floating point number)
+
+## @uuid
+Player UUID
+
+## @onlineplayers
+Number of players that are online right now
+
+## @food
+Player food level
+
+## @realdate
+Current real date
+
+## @saturation
+Player (food) saturation level
+
+## @p
+Player name
+
+## @tps
+Ticks per second
+
+## @totalworldtime
+MC time passed since map creation
+
+## @x
+Player X position (as integer)
+
+## @y
+Player Y position (as integer)
+
+## @z
+Player Z position (as integer)
+
+## @player
+Player name
+

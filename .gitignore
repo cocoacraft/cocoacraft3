@@ -1,0 +1,12 @@
+*.log*
+*.lck
+*.DS_Store
+*.gz
+/crash-reports
+/overworld
+/world
+/mods/DISABLED
+/logs
+/bin
+minecraft_server.1.7.10.jar
+forge-1.7.10-10.13.4.1481-1.7.10-universal.jar

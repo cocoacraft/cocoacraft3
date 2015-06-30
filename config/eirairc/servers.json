@@ -1,0 +1,28 @@
+[
+  {
+    "address": "irc.rizon.net",
+    "serverPassword": "",
+    "nick": "AsukaBot",
+    "charset": "UTF-8",
+    "isRedirect": false,
+    "isSSL": false,
+    "nickserv": {
+      "username": "",
+      "password": ""
+    },
+    "channels": [
+      {
+        "name": "#cococraft"
+      }
+    ],
+    "bot": {
+      "botProfile": "Server",
+      "relayDeathMessages": false,
+      "(more)": "(see shared.cfg for more options)"
+    },
+    "general": {
+      "autoJoin": true,
+      "(more)": "(see shared.cfg for more options)"
+    }
+  }
+]
