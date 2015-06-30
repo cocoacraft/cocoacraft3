@@ -8,5 +8,7 @@
 /mods/DISABLED
 /logs
 /bin
+/ForgeEssentials/Backups/
 minecraft_server.1.7.10.jar
 forge-1.7.10-10.13.4.1481-1.7.10-universal.jar
+/ForgeEssentials/playerlogger.h2.db
