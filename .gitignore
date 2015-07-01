@@ -2,6 +2,7 @@
 *.lck
 *.DS_Store
 *.gz
+*.db
 /crash-reports
 /overworld
 /world
