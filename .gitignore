@@ -2,7 +2,8 @@
 *.lck
 *.DS_Store
 *.gz
-*.db
+config/eirairc/*
+ForgeEssentials/*.db
 /crash-reports
 /overworld
 /world
